@@ -1,8 +1,8 @@
 Debug/
 Release/
+build/
 Resources/
 .settings/
 
 *.bak
-*.launch
 .mxproject
